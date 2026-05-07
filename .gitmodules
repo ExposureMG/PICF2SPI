@@ -1,0 +1,6 @@
+[submodule "ref/tools"]
+	path = ref/tools
+	url = https://github.com/Free60Project/tools.git
+[submodule "ref/FTDI2SPI"]
+	path = ref/FTDI2SPI
+	url = https://github.com/Octal450/FTDI2SPI
