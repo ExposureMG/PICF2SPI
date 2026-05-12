@@ -4,3 +4,6 @@
 [submodule "ref/FTDI2SPI"]
 	path = ref/FTDI2SPI
 	url = https://github.com/Octal450/FTDI2SPI
+[submodule "lib/gxRemapper"]
+	path = lib/gxRemapper
+	url = https://github.com/ExposureMG/gxRemapper
